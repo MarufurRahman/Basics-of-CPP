@@ -1,7 +1,6 @@
-// Printing "Hello World!"
+// Printing a massage
 
 #include<iostream>
-
 using namespace std;
 
 int main()
