@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-	string name;
+        string name;
 	cout << "Enter your name: ";
 	getline(cin, name); // Input name
 
 	cout << "Hello " << name << "." << endl; // Print hello massage to you
-    return 0;
+    	return 0;
 }
