@@ -1,11 +1,17 @@
+// While loop
+
 #include <iostream>
-int main(){
-    using namespace std;
-    int n = 1;
-    while( n <= 10){
-        cout << n << endl;
-        n++;
-    }
-    cout << "The loop is over!";
-    return 0;
+using namespace std;
+
+int main()
+{
+	int a;
+	a = 1;
+
+	while(a<=10){
+		cout << a << endl;
+		a++;
+	}
+
+	return 0;
 }
