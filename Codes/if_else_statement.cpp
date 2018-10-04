@@ -1,5 +1,6 @@
-#include <iostream>
+// Control statement
 
+#include <iostream>
 using namespace std;
 
 int main()

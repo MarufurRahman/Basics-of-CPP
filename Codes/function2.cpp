@@ -15,7 +15,7 @@ void sayHello(){
 
 int main()
 {
-	sayHi(1, 2);
+	sayHi(1, 2); // Call sayHi function
 
 	return 0;
 }

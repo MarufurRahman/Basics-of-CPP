@@ -1,4 +1,5 @@
 // arrays
+
 #include <iostream>
 using namespace std;
 
@@ -12,5 +13,6 @@ int main ()
     result += foo[n];
   }
   cout << result;
+
   return 0;
 }

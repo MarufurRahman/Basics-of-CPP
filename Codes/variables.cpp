@@ -1,6 +1,6 @@
-// Programmed by Marufur Rahman
-
+// Variables in C++
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -8,6 +8,7 @@ int main()
 	int a=10, b=20, sum=a+b;
 
 	// Printing their equation
-	std::cout << sum;
+	cout << sum << endl;
+	
 	return 0;
 }
